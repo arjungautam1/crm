@@ -10,12 +10,12 @@ import javax.persistence.Id;
 @Entity
 public class Contact {
 
-    private @Id @GeneratedValue long id;
-    private String firstName;
-    private String lastName;
-    private String email;
+    public  @Id @GeneratedValue long id;
+    public String firstName;
+    public String lastName;
+    public String email;
 
-    private Contact()
+    public Contact()
     {
 
     }
