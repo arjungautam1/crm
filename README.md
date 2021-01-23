@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Full Stack application using Spring Boot , React and mysql .
+## Screenshot of project demo
 
 <code><img src="https://raw.githubusercontent.com/arjun-sudo/crm/master/assets/img.png"></code>
 
